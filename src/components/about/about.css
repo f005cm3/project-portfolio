@@ -1,0 +1,11 @@
+.pic-resize {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+.about-text p {
+  font-size: 20;
+  font-style: normal;
+  font-family: Georgia;
+  text-align : left;
+}
